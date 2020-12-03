@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.genruntimeconfig.cache
